@@ -1,6 +1,6 @@
-# Prim-algorithm
+# Search fastest path in graph
 
-Example implementation Prim's algorithm on java. In this example, the prim's algorithm is used to create a minimal spanning tree. Which helps optimize the tree. This allows you to reduce the amount of stored data.
+Example implementation BFS algorithm with priority queue on java.
 
 
 <b>Statement</b><br>
@@ -32,3 +32,4 @@ Means clients are going to deliver 10 kilos from Бабяково to Свибл�
 
 
 
+	
