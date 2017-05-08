@@ -31,7 +31,8 @@ input.txt
 Means clients are going to deliver 10 kilos from Бабяково to Свиблово and 5 kilos from Бабяково to Коньково. 
 
 output.txt
-```Бабяково Свиблово 10.0 8.3 1105.0
+```
+Бабяково Свиблово 10.0 8.3 1105.0
 Бабяково Коньково 5.0 4.3 502.5
 ```
 E.g. first line means "from Бабяково to Свиблово 10.0 kilos will be delivered in 8.3 hours for (100.5+10.0)*10.0 = 1105 rubles". 
